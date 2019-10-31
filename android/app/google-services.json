@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "561539824997",
+    "firebase_url": "https://adell-748ef.firebaseio.com",
+    "project_id": "adell-748ef",
+    "storage_bucket": "adell-748ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561539824997:android:67d2c681ad0bc34dcb358c",
+        "android_client_info": {
+          "package_name": "com.example.a_dell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561539824997-hvmuss2b01f62pd3kheok1k4cjon3sb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkIfQaGvTSrretU3Sn07zSGfD4Yd-AMP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561539824997-hvmuss2b01f62pd3kheok1k4cjon3sb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

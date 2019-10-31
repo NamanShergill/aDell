@@ -1,0 +1,22 @@
+import 'package:flutter/material.dart';
+
+const Color contentColor = Color.fromRGBO(38, 38, 47, 1);
+const Color modalBackgroundColor = Color.fromRGBO(241, 241, 241, 1);
+const Color secondaryContentColor = Color.fromRGBO(111, 111, 118, 1);
+const Color skillTextColor = Color.fromRGBO(5, 59, 73, 1);
+const Color attentionColor = Color.fromRGBO(0, 152, 255, 1);
+const Color disabledColor = Color.fromRGBO(116, 116, 126, 1);
+const Color disabledTaskColor = Color.fromRGBO(38, 38, 47, 0.25);
+const Color treeLineColor = Color.fromRGBO(215, 215, 215, 1);
+const Color bugColor = Color.fromRGBO(236, 41, 117, 1);
+const Color statsSeparatorColor = Color.fromRGBO(57, 57, 71, 1);
+Color theme = Colors.cyan.shade600;
+Color background = Colors.grey.shade50;
+Color gradient1 = Color(0xff64b5f6);
+Color gradient2 = Color(0xff0e47a1);
+Color taskcardcolor = Color(0xff565665);
+Color taskcardbg = Color(0xff3c3b49);
+Color type1 = Color(0xff00b3b8);
+Color type2 = Color(0xff8bc24a);
+Color type3 = Color(0xffac3e4b);
+Color type4 = Color(0xff5471ef);
